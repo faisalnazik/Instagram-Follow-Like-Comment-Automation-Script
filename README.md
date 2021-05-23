@@ -11,6 +11,9 @@ This is in just starting phase and will add complex features soon ...
 
 ## How to Run locally 🚀
 
+    - You should have firefox browser installed and clean the previous cookies of
+    logged in activity of instagram
+
     - Install Dependencies after creating and activating virtual environement
 
     $ pip install -r requirements.txt
