@@ -1,0 +1,6 @@
+
+selenium==3.141.0
+urllib3==1.26.4
+instapy==0.6.13
+django-environ==0.4.5
+
